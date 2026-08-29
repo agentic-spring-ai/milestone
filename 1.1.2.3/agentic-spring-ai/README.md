@@ -1,3 +1,3 @@
-# Agentic Spring AI 1.1.2.3 Version
+# Legacy pointer
 
-从 alibaba/spring-ai-alibaba fork 过来之后的第一个 1.x 原版本。只改动了 maven 坐标，其他内容均保持不变。
+This historical entry is superseded by [archive/1.x-patch.md](../../archive/1.x-patch.md).

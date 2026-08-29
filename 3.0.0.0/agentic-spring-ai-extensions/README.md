@@ -1,1 +1,3 @@
-# Agentic Spring AI Extensions 3.0.0.0-RC1 Version
+# Legacy pointer
+
+The stable 3.0.0 plan is [active/3.0.0.md](../../active/3.0.0.md).
