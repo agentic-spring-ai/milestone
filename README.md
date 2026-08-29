@@ -11,7 +11,7 @@ and release gates.
 | --- | --- | --- | --- | --- |
 | 1.x patch | 1.1.2.3 | 1.1.2.4 | Released | [archive/1.x-patch.md](archive/1.x-patch.md) |
 | 2.0.0.0 | 2.0.0.0 | 2.0.0.0 | Released | [archive/2.0.0.0.md](archive/2.0.0.0.md) |
-| 2.1.0 | 2.1.0-dev | 2.1.0-dev | In progress | [active/2.1.0.md](active/2.1.0.md) |
+| 2.1.0 | 2.1.0-dev | 2.1.0-dev | Release ready | [active/2.1.0.md](active/2.1.0.md) |
 | 2.2.0 | 2.2.0-dev | 2.2.0-dev | Planned | [active/2.2.0.md](active/2.2.0.md) |
 | 3.0.0.0-RC1 | 3.0.0.0-RC1 | 3.0.0.0-RC1 | Planned | [active/3.0.0-RC1.md](active/3.0.0-RC1.md) |
 | 3.0.0.0 | 3.0.0.0 | 3.0.0.0 | Planned | [active/3.0.0.md](active/3.0.0.md) |
